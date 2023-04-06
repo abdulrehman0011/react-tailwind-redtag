@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>EE4D4DBF-F458-4C62-8217-AEA0A8C727E3</title>
+    <g id="Home-Page-+" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page-" transform="translate(-1150.000000, -6141.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="6225"></rect>
+            <g id="Footer" transform="translate(0.000000, 5745.000000)">
+                <g id="Icon/16px/Call" transform="translate(0.000000, 2.455933)" fill="#000000">
+                    <rect id="Rectangle" x="0" y="0" width="1440" height="480"></rect>
+                </g>
+                <g id="Icon/Social/Facebook" transform="translate(1150.000000, 396.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+                    <path d="M12.8148148,9.5 L12.8148148,7.5 C12.8148148,6.948 13.2462222,6.5 13.7777778,6.5 L14.7407407,6.5 L14.7407407,4 L12.8148148,4 C11.2191852,4 9.92592593,5.343 9.92592593,7 L9.92592593,9.5 L8,9.5 L8,12 L9.92592593,12 L9.92592593,20 L12.8148148,20 L12.8148148,12 L14.7407407,12 L15.7037037,9.5 L12.8148148,9.5 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

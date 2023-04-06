@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="33px" viewBox="0 0 32 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DC6195C9-8DD1-44C8-9074-E7ED970A943C</title>
+    <g id="Dashboard-&amp;-Account-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="My-Account_Orders" transform="translate(-598.000000, -879.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="2151"></rect>
+            <g id="Order-List-1" transform="translate(478.000000, 688.500000)" fill-rule="nonzero">
+                <g id="Group-2" transform="translate(0.000000, 116.500000)">
+                    <g id="Group" transform="translate(120.000000, 74.500000)">
+                        <path d="M16,0 C7.168,0 0,7.168 0,16 C0,24.832 7.168,32 16,32 C24.832,32 32,24.832 32,16 C32,7.168 24.832,0 16,0 Z" id="Shape" fill="#007E30"></path>
+                        <polygon id="Path" fill="#FFFFFF" points="23.344 8.464 12.8 19.008 8.656 14.88 6.4 17.136 12.8 23.536 25.6 10.736"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>86284E25-8FA3-49BC-9D8B-29292355ABE0</title>
+    <g id="Login" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MA_Account_LogIn" transform="translate(-784.000000, -1396.000000)">
+            <g id="Contact-Us" transform="translate(456.000000, 1270.000000)">
+                <g id="Button/Primery/Default" transform="translate(328.000000, 126.000000)">
+                    <circle id="Oval" fill="#000000" cx="26" cy="26" r="26"></circle>
+                    <g id="Group" transform="translate(12.458333, 15.843750)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+                        <path d="M0,0 L27.0833333,0 L27.0833333,19.1840278 C27.0833333,19.8072658 26.5780991,20.3125 25.9548611,20.3125 L1.12847222,20.3125 C0.505234223,20.3125 0,19.8072658 0,19.1840278 L0,0 Z" id="Path"></path>
+                        <polyline id="Path" points="27.0833333 0 13.5416667 12.4131944 0 0"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

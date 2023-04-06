@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="29px" viewBox="0 0 28 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>57D7AD45-701F-442F-8F3D-077D965C309F</title>
+    <g id="PDP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1093.000000, -1298.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="5093"></rect>
+            <g id="Main-Product-Details" transform="translate(80.000000, 284.000000)">
+                <g id="Product-Details-" transform="translate(778.000000, 3.000000)">
+                    <g id="List-Copy" transform="translate(199.000000, 1011.500000)">
+                        <g id="Package" transform="translate(36.000000, 0.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="28" height="28"></rect>
+                            <path d="M24.5,19.3945084 L24.5,8.60549156 C24.5,8.28937758 24.3294958,7.99784187 24.0539786,7.84286344 L14.4289786,2.42880094 C14.1626167,2.27897239 13.8373833,2.27897239 13.5710214,2.42880094 L3.94602141,7.84286344 C3.6705042,7.99784187 3.5,8.28937758 3.5,8.60549156 L3.5,19.3945084 C3.5,19.7106224 3.6705042,20.0021581 3.94602141,20.1571366 L13.5710214,25.5711991 C13.8373833,25.7210276 14.1626167,25.7210276 14.4289786,25.5711991 L24.0539786,20.1571366 C24.3294958,20.0021581 24.5,19.7106224 24.5,19.3945084 Z" id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <polyline id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="19.3617812 16.6808906 19.3617812 10.9933906 8.75 5.140625"></polyline>
+                            <polyline id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="24.3793594 8.16232813 14.1037969 14 3.6211875 8.16123438"></polyline>
+                            <line x1="14.1038133" y1="14" x2="14.0011331" y2="25.6835808" id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

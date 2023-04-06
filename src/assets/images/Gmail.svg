@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="28px" viewBox="0 0 27 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>6EA55923-35EE-49CB-B121-473FF3983F11</title>
+    <g id="Login" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MA_Account_LogIn" transform="translate(-108.000000, -860.000000)">
+            <g id="Button/Primery/Default" transform="translate(80.000000, 850.000000)">
+                <rect id="Button-bg" fill="#5688E5" x="0" y="0" width="263" height="48" rx="24"></rect>
+                <g id="Icon/16px/Caret/Down" transform="translate(28.000000, 10.500000)" fill-rule="nonzero">
+                    <g id="gmail" transform="translate(4.639257, 6.750000)">
+                        <g id="Group" transform="translate(1.155323, 0.000000)" fill="#F2F2F2">
+                            <polygon id="Path" points="15.6306972 2.13990411 14.4993949 13.4999654 0.911445127 13.4999654 0 2.3597613 7.70542003 6.67390491"></polygon>
+                            <polygon id="Path" points="15.2469509 0 7.70542003 7.08430269 0.163889138 0 7.70542003 0"></polygon>
+                        </g>
+                        <path d="M2.06676837,3.27120643 L2.06676837,13.4999654 L0.835505788,13.4999654 C0.374227954,13.4999654 0,13.125772 0,12.6644596 L0,1.7646724 L1.34987886,1.80146525 L2.06676837,3.27120643 Z" id="Path" fill="#F14336"></path>
+                        <path d="M17.7214865,1.7646724 L17.7214865,12.6644942 C17.7214865,13.125772 17.3472586,13.5 16.8855308,13.5 L15.6547182,13.5 L15.6547182,3.27120643 L16.3363032,1.66087018 L17.7214865,1.7646724 Z" id="Path" fill="#D32E2A"></path>
+                        <path d="M17.7214865,0.835505788 L17.7214865,1.7646724 L15.6547182,3.27120643 L8.86074327,8.22311587 L2.06676837,3.27120643 L0,1.7646724 L0,0.835505788 C0,0.374227954 0.374227954,0 0.835505788,0 L1.31921238,0 L8.86074327,5.49674132 L16.4022742,0 L16.8855308,0 C17.3472586,0 17.7214865,0.374193342 17.7214865,0.835505788 Z" id="Path" fill="#F14336"></path>
+                        <polygon id="Path" fill="#D32E2A" points="2.06676837 3.27120643 0 2.95076596 0 1.7646724"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

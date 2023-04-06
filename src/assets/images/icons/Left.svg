@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>97AA10B1-2AA9-4034-8BE6-6B31C7EBC372</title>
+    <g id="Dashboard-&amp;-Account-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Account_Address-Book" transform="translate(-286.000000, -372.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="1721"></rect>
+            <g id="Dashboard-TAB" transform="translate(80.000000, 284.000000)">
+                <g id="Input-Field/Standard-Inactive" transform="translate(0.000000, 68.000000)">
+                    <rect id="Rectangle" stroke="#C8C8C8" fill="#FFFFFF" x="0.5" y="0.5" width="245" height="55" rx="10"></rect>
+                    <g id="Icon/24px/Chevron/Right" transform="translate(206.000000, 20.000000)" fill="#000000">
+                        <path d="M7.98429952,12 C7.80798606,11.9984629 7.63916355,11.9284983 7.51344931,11.8048669 L0.853616188,5.14503376 C0.601227021,4.88371597 0.604836541,4.46833826 0.861728814,4.21144598 C1.11862109,3.95455371 1.5339988,3.95094419 1.79531659,4.20333336 L7.98429952,10.3923163 L14.1732824,4.20333336 C14.3404938,4.03020661 14.5881087,3.96077385 14.8209561,4.0217216 C15.0538035,4.08266936 15.2356468,4.26451275 15.2965946,4.49736011 C15.3575424,4.73020748 15.2881096,4.97782236 15.1149828,5.14503376 L8.45514972,11.8048669 C8.32943548,11.9284983 8.16061298,11.9984629 7.98429952,12 L7.98429952,12 Z" id="Path" transform="translate(7.992491, 8.000000) scale(1, -1) rotate(-90.000000) translate(-7.992491, -8.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>C9B7B119-FD1B-4E0B-87DC-433901F4A78B</title>
+    <g id="PDP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-929.000000, -1402.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="5093"></rect>
+            <g id="Main-Product-Details" transform="translate(80.000000, 284.000000)">
+                <g id="Product-Details-" transform="translate(778.000000, 3.000000)">
+                    <g id="List-Copy-5" transform="translate(35.000000, 1115.000000)">
+                        <g id="ShieldCheck" transform="translate(36.000000, 0.000000)">
+                            <rect id="Rectangle" x="0" y="0" width="28" height="28"></rect>
+                            <path d="M4.375,12.541667 L4.375,6.125 C4.375,5.64175084 4.76675084,5.25 5.25,5.25 L22.75,5.25 C23.2332492,5.25 23.625,5.64175084 23.625,6.125 L23.625,12.541667 C23.625,21.7308437 15.8259063,24.7752783 14.2686469,25.2915742 C14.0945598,25.3514888 13.9054402,25.3514888 13.7313531,25.2915742 C12.1740937,24.7752783 4.375,21.7308437 4.375,12.541667 Z" id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <polyline id="Path" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="18.8125 11.375 12.3957969 17.5 9.1875 14.4375"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
